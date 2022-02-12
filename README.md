@@ -1,5 +1,4 @@
 # flaskcrudblog
-
 https://anothercrudtutorial.herokuapp.com/
 
 Uses flask and html to create format of blog with ability to delete, edit, or create new
