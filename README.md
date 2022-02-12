@@ -1,5 +1,10 @@
 # flaskcrudblog
 
+Uses flask and html to create format of blog with ability to delete, edit, or create new
+
+Drop down menu with home page, posts, and links to socials. 
+Working to get search bar and about page up and running
+
 <img width="960" alt="pic1" src="https://user-images.githubusercontent.com/54678225/153729207-2de5197b-a1ef-4726-9f6f-27e5c3fa80b3.png">
 <img width="959" alt="pic2" src="https://user-images.githubusercontent.com/54678225/153729209-304452a4-197d-4c44-ad50-8791ce5de19e.png">
 <img width="960" alt="pic3" src="https://user-images.githubusercontent.com/54678225/153729211-6a1ca85f-ad86-468c-aac2-a5ebe074da81.png">
